@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Недвижимость на Коста-Бланке</title>
+  <style>
+    body {
+      font-family: 'Times New Roman', serif;
+      margin: 0;
+      padding: 0;
+      color: #333;
+      background-color: #fff;
+    }
+    h1 {
+      color: #c60b1e;
+      padding: 20px;
+      text-align: center;
+      background-color: #ffc400;
+    }
+    p {
+      padding: 0 20px 10px;
+      text-align: center;
+    }
+    .property {
+      margin: 0 0 40px;
+      text-align: center;
+    }
+    .property img {
+      width: auto;
+      height: auto;
+      max-width: 600px;
+      display: block;
+      margin: 0 auto 15px;
+      border-radius: 10px;
+    }
+    .property h2 {
+      font-size: 1.6em;
+      color: #c60b1e;
+      background-color: #ffc400;
+      display: inline-block;
+      padding: 8px 16px;
+      border-radius: 5px;
+      margin: 10px 0;
+    }
+    .property .description {
+      margin: 8px auto;
+      max-width: 600px;
+    }
+    .property .link a {
+      text-decoration: none;
+      font-weight: bold;
+      color: #c60b1e;
+      background-color: #ffc400;
+      padding: 10px 20px;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🏡 Недвижимость на Коста-Бланке</h1>
+  <p>Цены от 225 000 € (без НДС).</p>
+  <p>Современные апартаменты, таунхаусы и виллы. Всё — напрямую от застройщика.</p>
+
+  <div class="property">
+    <img src="A3-Allure-Alenda golf-pool-May24_2.jpg" alt="" aria-hidden="true">
+    <h2>📍 Allure, Alenda Golf – 225.000 €</h2>
+    <div class="description">Современные апартаменты рядом с гольф-клубом.</div>
+    <div class="link"><a href="https://catalog.agentspanishproperty.com/Allure-Alenda-Golf-ageng/" target="_blank">Каталог</a></div>
+  </div>
+
+  <div class="property">
+    <img src="C10_Torrevieja_paseo.jpg" alt="" aria-hidden="true">
+    <h2>📍 Edén Beach, La Mata – 280.000 €</h2>
+    <div class="description">Апартаменты с видом на море и бассейном. До пляжа 700 м.</div>
+    <div class="link"><a href="https://catalog.agentspanishproperty.com/eden-beach-torrevieja-ageng/" target="_blank">Каталог</a></div>
+  </div>
+
+  <div class="property">
+    <img src="C9-Los Arenales del Sol beach-Alicante.jpg" alt="" aria-hidden="true">
+    <h2>📍 Amara, Gran Alacant – 315.000 €</h2>
+    <div class="description">Светлые апартаменты с террасами и паркингом.</div>
+    <div class="link"><a href="https://catalog.agentspanishproperty.com/amara-ageng/" target="_blank">Каталог</a></div>
+  </div>
+
+  <div class="property">
+    <img src="C9_Javea_beach.jpg" alt="" aria-hidden="true">
+    <h2>📍 Iconic, Gran Alacant – 435.000 €</h2>
+    <div class="description">Панорамный вид на море, дизайнерская отделка.</div>
+    <div class="link"><a href="https://catalog.agentspanishproperty.com/iconic-ageng/" target="_blank">Каталог</a></div>
+  </div>
+
+  <div class="property">
+    <img src="C2-Allure_ de-Alenda-Golf.jpg" alt="" aria-hidden="true">
+    <h2>📍 Breeze, Finestrat – 435.000 € / 555.000 €</h2>
+    <div class="description">Современные дома с бассейнами и видом на горы.</div>
+    <div class="link"><a href="https://catalog.agentspanishproperty.com/Breeze-ageng/" target="_blank">Каталог</a></div>
+  </div>
+
+</body>
+</html>
